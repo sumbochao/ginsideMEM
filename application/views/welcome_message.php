@@ -1,0 +1,1 @@
+<div style="width: 100%;height: 500px;text-align: center">WELCOME TO GAME INSIDE</div>
